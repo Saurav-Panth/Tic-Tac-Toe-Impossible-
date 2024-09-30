@@ -1,2 +1,3 @@
-If You Run This In CMD Music File Will Not Play.
-This is Not GUI Progrm So, Run It on Any Java Editing Software (IDE).
+GOTO TIC_SetUp_For_Pc(exe).txt.
+Theirs a link to my google drive.
+Download and enjoy.
